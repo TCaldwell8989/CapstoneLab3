@@ -15,7 +15,7 @@ def display_menu_get_selection():
     return selection
 
 def add_data(cur):
-    '''Ask user for information for a new record'''
+    '''Ask user for information for new record'''
     name = input('Enter Name: ')
     country = input('Enter Country: ')
     catches = int(input('Enter Number of Catches: '))
