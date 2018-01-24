@@ -1,0 +1,6 @@
+.idea/
+__pycache__
+*.pyc
+.DS_Store
+chainsaw_juggling_records.db
+*.log
