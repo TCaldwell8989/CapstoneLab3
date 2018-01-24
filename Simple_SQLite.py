@@ -2,7 +2,7 @@ import sqlite3
 import sys
 
 def display_menu_get_selection():
-    '''Display menu and handle user selection'''
+    '''Display user menu and handle user selection'''
 
     print('''
         1. Add Data
